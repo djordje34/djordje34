@@ -1,0 +1,77 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, maximum-scale=1.0,user-scalable,minimum-scale=1.0, initial-scale=1.0">
+    <title>Portfolio</title>
+    <meta name="viewport" content= "width=device-width, user-scalable=no">
+    <link rel="stylesheet" href="style.css">
+    <link rel="stylesheet" href="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/css/bootstrap.min.css" integrity="sha384-ggOyR0iXCbMQv3Xipma34MD+dH/1fQ784/j6cY/iJTQUOhcWr7x9JvoRxT2MZw1T" crossorigin="anonymous">
+    <script src="https://code.jquery.com/jquery-3.3.1.slim.min.js" integrity="sha384-q8i/X+965DzO0rT7abK41JStQIAqVgRVzpbzo5smXKp4YfRvH+8abtTE1Pi6jizo" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/popper.js@1.14.7/dist/umd/popper.min.js" integrity="sha384-UO2eT0CpHqdSJQ6hJty5KVphtPhzWj9WO1clHTMGa3JDZwrnQq4sF86dIHNDz0W1" crossorigin="anonymous"></script>
+<script src="https://cdn.jsdelivr.net/npm/bootstrap@4.3.1/dist/js/bootstrap.min.js" integrity="sha384-JjSmVgyd0p3pXB1rRibZUAYoIIy6OrQ6VrjIEaFf/nJGzIxFDsf4x0xIM+B07jRM" crossorigin="anonymous"></script>
+<script src="https://kit.fontawesome.com/935172bc1d.js" crossorigin="anonymous"></script>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/font-awesome/5.15.1/css/all.min.css"rel="stylesheet"/>
+
+<link href="https://fonts.googleapis.com/css?family=Roboto:300,400,500,700&display=swap"rel="stylesheet"/>
+<link href="https://cdnjs.cloudflare.com/ajax/libs/mdb-ui-kit/3.10.2/mdb.min.css" rel="stylesheet"/>
+
+
+<link rel="stylesheet" href="https://use.fontawesome.com/releases/v5.3.1/css/all.css" integrity="sha384-mzrmE5qonljUremFsqc01SB46JvROS7bZs3IO2EmfFsd15uHvIt+Y8vEf7N7fWAU" crossorigin="anonymous">
+   <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.6.0/jquery.min.js" integrity="sha512-894YE6QWD5I59HgZOGReFYm4dnWc1Qt5NtvYSaNcOP+u1T9qYdvdihz0PPSiiqn/+/3e7Jo4EaG7TubfWGUrMQ==" crossorigin="anonymous" referrerpolicy="no-referrer"></script>
+    <script src="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/js/bootstrap.bundle.min.js" integrity="sha384-ka7Sk0Gln4gmtz2MlQnikT1wXgYsOg+OMhuP+IlRH9sENBO0LRn5q+8nbTov4+1p" crossorigin="anonymous"></script>
+    <link href="https://cdn.jsdelivr.net/npm/bootstrap@5.1.3/dist/css/bootstrap.min.css" rel="stylesheet" integrity="sha384-1BmE4kWBq78iYhFldvKuhfTAU6auU8tT94WrHftjDbrCEXSU1oBoqyl2QvZ6jIW3" crossorigin="anonymous">
+  
+
+
+
+</head>
+<body style="overflow:hidden">
+<div class="d-flex flex-column justify-content-center w-100 h-100" style="position:absolute">
+<div class="circleDiv" style=""><div class="circle"></div></div>
+    <div class="d-flex flex-column justify-content-center align-items-center cnt">
+
+
+
+    
+        <h1 class="fw-light text-white m-0 coloredRef" style="margin:2% !important;font-size:xx-large">Đorđe Karišić</h1>
+        <h2 class="fw-light text-white m-0 coloredRef" style="margin:2% 0 5% !important;font-size:large">Software engineering and development</h2>
+        <h5 class="fw-light text-black m-0"><a href="http://www.mfkg.rs/" class=" coloredRef fakslink" style="font-size:large;margin-bottom:5%;text-align:center;">Faculty of Engineering, University of Kragujevac</a> </h5>
+
+        <div class="" align="center" style="margin:5% !important;width:20%;height:40%;border:0;">
+            <a href="#" class="btn btn-outline-danger gradientButton" style="border:0;width:100%;height:100%"><i class="fa-brands fa-github fa-2xl center"></i></a>
+        </div>
+    <div style='display:inline-block;width:100%'>
+    <a class="coloredRef iconMoves" href="#!" role="button"><i class="fab fa-instagram fa-3x transitioner"></i></a>
+    <a class="coloredRef iconMoves" href="#!" role="button"><i class="fab fa-linkedin-in fa-3x transitioner"></i></a>
+    </div>
+    </div>
+
+
+
+    <div class='container'>
+    <h5 style='text-align:center;border-bottom:1px solid rgba(0, 0, 0, 0.3);' class='coloredRef'><i class="fa-brands fa-python fa-lg"></i></h5>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0;font-size:medium;'>Movie Recommender</p></a>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Crossroads</p></a>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Gmail Academic Filter</p></a>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Wordle</p></a>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Kaggle Titanic</p></a>
+    <h5 style='text-align:center;border-bottom:1px solid rgba(0, 0, 0, 0.3);' class='coloredRef'><i class="fa-brands fa-java fa-lg"></i></h5>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Crossroads</p></a>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Nordeus Job Fair 2021.</p></a>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Google Foobar</p></a>
+    <h5 style='text-align:center;border-bottom:1px solid rgba(0, 0, 0, 0.3);' class='coloredRef'><i class="fa-brands fa-js fa-lg"></i> <i class="fa-brands fa-html5 fa-lg"></i> <i class="fa-brands fa-css3 fa-lg"></i> <i class="fa-brands fa-php fa-lg"></i></h5>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Job Listing Website</p></a>
+    <h5 style='text-align:center;border-bottom:1px solid rgba(0, 0, 0, 0.3);' class='coloredRef'><i class="fab fa-cuttlefish"></i></h5>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Quasi Chess MPI</p></a>
+    <h5 style='text-align:center;border-bottom:1px solid rgba(0, 0, 0, 0.3);' class='coloredRef'>Assembly</h5>
+    <a href="#" class="btn btn-outline-danger gradientButton item"><p class='coloredRef' style='padding:3%;margin:0'>Analog Clock</p></a>
+
+    </div>
+
+
+
+</div>
+</body>
+</html>

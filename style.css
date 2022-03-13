@@ -1,0 +1,203 @@
+body {
+    background: linear-gradient(-45deg, #1a2a6c,#b21f1f,#fdbb2d);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    height: 100vh;
+    font-family: Garamond, serif !important;
+    color:black !important;
+    }
+    
+    @keyframes gradient {
+    0% {
+    background-position: 0% 50%;
+    }
+    50% {
+    background-position: 100% 50%;
+    }
+    100% {
+    background-position: 0% 50%;
+    }
+    }
+    @media (min-width: 1000px) {
+    .coloredRef{
+        background: linear-gradient(-45deg,#fdbb2d,#1a2a6c);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  
+    }
+    .cnt{
+        background-color:rgba(0, 0, 0, 0.3);
+        margin:5% 30%;
+        transition: ease 2.0s;
+    }
+    .cnt:hover{
+        transform:scale(1.1,1.1);
+        -webkit-transform:scale(1.1,1.1);
+        -moz-transform:scale(1.1,1.1);
+        transition: ease 2.0s; /*this is not working*/
+    }
+    .gradientButton{
+        transition: ease 0.5s !important;
+        background: linear-gradient(-45deg, #1a2a6c,#b21f1f,#fdbb2d);
+        background-size: 400% 400%;
+        animation: gradient 10s ease infinite;
+        font-weight: bold;
+    }
+    .gradientButton:hover{
+    transform:scale(1.1,1.1);
+    -webkit-transform:scale(1.1,1.1);
+    -moz-transform:scale(1.1,1.1);
+    transition: ease 0.5s;
+    }
+
+    .fakslink:hover{
+        font-size:x-large !important;
+        transition: ease 0.5s;
+    }
+    .fakslink{
+        transition: ease 0.5s;
+    }
+
+
+    .iconMoves{
+       float:right;
+       text-align:left;
+        transition: ease 0.5s;
+        margin:2%;
+    }
+    .iconMoves:hover{
+        font-size:larger !important;
+        transition: ease 0.5s;
+    }
+
+    .container{
+        background-color:rgba(0, 0, 0, 0.3);
+        position:absolute;
+        height:100%;
+        width:20% !important;
+        right:0;
+        align-items: center;
+        margin:0% !important;
+    }
+    .item{
+        border:1px solid rgba(0, 0, 0, 0.7);
+        transition: ease 0.5s;
+        margin:2% 5%;
+        font-size:medium;
+        text-align: center;
+        width:90% !important;
+        height:5% !important;
+    }
+    h5 i{
+        margin:2% !important;
+    }
+    .center {
+        text-align: center;
+        width: 100%;
+    }
+
+
+
+    .circleDiv {
+        border-radius: 50%;
+        width: 20%;
+        height: 20%;
+        z-index:-1;
+        position: absolute;
+        -webkit-animation: circle 12s infinite;
+        animation: circle 4s infinite;
+      }
+
+      .circle{
+        background: linear-gradient(-45deg, #1a2a6c,#b21f1f,#fdbb2d);
+        background-size: 1000% 1000%;
+        width: 40%;
+        padding-top: 40%;
+        border-radius:50%;
+        position: relative;
+        animation: gradient 10s ease infinite;
+        margin:auto;
+      }
+      .circle:hover{
+
+      }
+
+      @-webkit-keyframes circle {
+        0%   {right:0;top:-100px;}
+        50%{right:0;top:1000px;}
+        100%   {right:0;top:-100px;}
+    }
+
+    }
+
+
+
+
+@media (max-width: 1000px) {
+
+    .coloredRef{
+        background: linear-gradient(-45deg,#fdbb2d,#1a2a6c);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  
+    }
+    .cnt{
+        background-color:rgba(0, 0, 0, 0.3);
+        transition: ease 2.0s;
+        margin:0;
+    }
+    .cnt:hover{
+        transform:scale(1.1,1.1);
+        -webkit-transform:scale(1.1,1.1);
+        -moz-transform:scale(1.1,1.1);
+        transition: ease 2.0s;
+    }
+    .gradientButton{
+        background: linear-gradient(-45deg, #1a2a6c,#b21f1f,#fdbb2d);
+        background-size: 400% 400%;
+        animation: gradient 10s ease infinite;
+         transition: ease 0.5s !important;
+        font-weight: bold;
+        
+    }
+    .gradientButton:hover{
+    transform:scale(1.1,1.1);
+    -webkit-transform:scale(1.1,1.1);
+    -moz-transform:scale(1.1,1.1);
+    transition: ease 0.5s;
+    }
+    .fakslink:hover{
+        font-size:x-large !important;
+        transition: ease 0.5s;
+    }
+    .fakslink{
+        transition: ease 0.5s;
+    }
+
+
+    .iconMoves{
+        text-align: right;
+        float:right;
+        margin:2%;
+        transition: ease 0.5s;
+    }
+
+    .iconMoves:hover{
+        color: black !important;
+        background-color: black;
+        transition: ease 0.5s;
+    }
+
+    h5 i{
+        margin:2% !important;
+    }
+
+}
