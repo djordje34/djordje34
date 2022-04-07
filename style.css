@@ -100,7 +100,21 @@ body {
         width: 100%;
     }
 
-
+    .game{
+        position:absolute;
+        width:20%;
+        left:40%;
+        top:0;
+        text-align:center;
+        z-index:10;
+        transition: ease 0.5s;
+    }
+    .game:hover{
+        transform:scale(1.1,1.1);
+        -webkit-transform:scale(1.1,1.1);
+        -moz-transform:scale(1.1,1.1);
+        transition: ease 0.5s;
+    }
 
     .circleDiv {
         border-radius: 50%;
