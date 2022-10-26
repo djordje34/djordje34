@@ -78,10 +78,11 @@ body {
         background-color:rgba(0, 0, 0, 0.3);
         position:absolute;
         height:100%;
-        width:20% !important;
+        width:25% !important;
         right:0;
         align-items: center;
         margin:0% !important;
+        overflow-y: scroll;
     }
     .item{
         border:1px solid rgba(0, 0, 0, 0.7);
@@ -90,7 +91,7 @@ body {
         font-size:medium;
         text-align: center;
         width:90% !important;
-        height:5% !important;
+        
     }
     h5 i{
         margin:2% !important;
@@ -146,6 +147,112 @@ body {
         100%   {right:0;top:-100px;}
     }
 
+
+    /* The Modal (background) */
+.modal {
+    display: none; /* Hidden by default */
+    position: fixed; /* Stay in place */
+    z-index: 100; /* Sit on top */
+    left: 0;
+    top: 0;
+    width: 100%; /* Full width */
+    height: 100%; /* Full height */
+    overflow: auto; /* Enable scroll if needed */
+    background-color: rgb(0,0,0); /* Fallback color */
+    background-color: rgba(0,0,0,0.4); /* Black w/ opacity */
+  }
+  
+  /* Modal Content/Box */
+  .modal-content {
+    background-color: #fefefe;
+    margin: 15% auto; /* 15% from the top and centered */
+    padding: 20px;
+    border: 1px solid #888;
+    width: 80% !important; /* Could be more or less, depending on screen size */
+  }
+  
+  /* The Close Button */
+  .close {
+    color: #aaa;
+    float: right;
+    font-size: 28px;
+    font-weight: bold;
+  }
+  
+  .close:hover,
+  .close:focus {
+    color: black;
+    text-decoration: none;
+    cursor: pointer;
+  }
+
+  #projTitle{
+    text-align: center;
+  }
+  #projDesc{
+    text-align: center;
+  }
+
+  /* Modal Header */
+.modal-header {
+    padding: 2px 16px;
+    background: linear-gradient(-45deg, #1a2a6c,#b21f1f,#fdbb2d);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    
+    -webkit-text-fill-color: transparent;
+  }
+  
+  /* Modal Body */
+  .modal-body {padding: 2px 16px;}
+  
+  /* Modal Footer */
+  .modal-footer {
+    padding: 2px 16px;
+    background: linear-gradient(-45deg, #1a2a6c,#b21f1f,#fdbb2d);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    
+    
+    -webkit-text-fill-color: transparent;
+  }
+  #projTitle{
+    background: linear-gradient(-45deg,#fdbb2d,#1a2a6c);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  #projLang{
+    background: linear-gradient(-45deg,#fdbb2d,#1a2a6c);
+    background-size: 400% 400%;
+    animation: gradient 10s ease infinite;
+    
+    -webkit-background-clip: text;
+    -webkit-text-fill-color: transparent;
+    font-weight: bold;
+  }
+  
+  /* Modal Content */
+  .modal-content {
+    position: relative;
+    background-color: #b21f1f;
+    margin: auto;
+    padding: 0;
+    border: 1px solid #888;
+    width: 80%;
+    box-shadow: 0 4px 8px 0 rgba(0,0,0,0.2),0 6px 20px 0 rgba(0,0,0,0.19);
+    animation-name: animatetop;
+    animation-duration: 0.4s
+  }
+  
+  /* Add Animation */
+  @keyframes animatetop {
+    from {top: -300px; opacity: 0}
+    to {top: 0; opacity: 1}
+  }
     }
 
 

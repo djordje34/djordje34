@@ -126,3 +126,5 @@ function generateWalls(){
         }
         setTimeout(overlapCheck,100);
   }
+
+
