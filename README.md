@@ -21,4 +21,4 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 
-[[[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/djordje34/langs)](https://githubtrends.io)](https://api.githubtrends.io/user/svg/djordje34/langs?time_range=one_year&theme=dark)](https://api.githubtrends.io/user/svg/djordje34/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark)
+[[[![GitHub Trends SVG]([https://api.githubtrends.io/user/svg/djordje34/langs](https://api.githubtrends.io/user/svg/djordje34/langs?time_range=one_year&theme=dark)](https://api.githubtrends.io/user/svg/djordje34/langs?time_range=one_year&include_private=True&loc_metric=changed&theme=dark))](https://githubtrends.io)]()
