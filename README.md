@@ -19,3 +19,5 @@ Here are some ideas to get you started:
 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djordje34&theme=dark&background=000000)](https://git.io/streak-stats)
 
+
+[![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
