@@ -23,5 +23,5 @@ Here are some ideas to get you started:
   </p>
 <div align="center">
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
