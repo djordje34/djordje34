@@ -21,3 +21,6 @@ Here are some ideas to get you started:
 
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+
+
+[![GitHub Trends SVG](https://api.githubtrends.io/user/svg/avgupta456/langs)](https://githubtrends.io)
