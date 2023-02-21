@@ -17,8 +17,10 @@ Here are some ideas to get you started:
 <p align="center">
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordje34&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+  
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djordje34&theme=dark&background=000000)](https://git.io/streak-stats)
-
+  </p>
+<p align="center">
 
 [![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 </p>
