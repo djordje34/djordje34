@@ -25,5 +25,5 @@ Here are some ideas to get you started:
   
 ![Djordje's GitHub stats](https://github-readme-stats.vercel.app/api?username=djordje34&show_icons=true&theme=radical)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=radical)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=radical&row=2&column=3)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
