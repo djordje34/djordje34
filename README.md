@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 
 <div align="center">
  
-![](https://github.com/djordje34/djordje34/banner.png)   
+![](https://github.com/djordje34/djordje34/blob/main/banner.png)   
   
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordje34&langs_count=6&show_icons=true&layout=compact&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
