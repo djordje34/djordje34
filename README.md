@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 <div align="center">
-  
+  <img src=”https://github.com/djordje34/djordje34/issues/1#issue-1614334494" alt=”banner”>
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=djordje34&langs_count=6&show_icons=true&layout=compact&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
   
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=djordje34&theme=dark&background=141321)](https://git.io/streak-stats)
