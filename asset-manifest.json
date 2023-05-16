@@ -1,29 +1,29 @@
 {
   "files": {
-    "main.css": "/portfolio/static/css/main.5a6e02c5.css",
-    "main.js": "/portfolio/static/js/main.93ff36d6.js",
-    "static/js/787.1ed0c42c.chunk.js": "/portfolio/static/js/787.1ed0c42c.chunk.js",
-    "static/media/unix_workbench.jpg": "/portfolio/static/media/unix_workbench.36e4c043419218c45c53.jpg",
-    "static/media/redhat.jpg": "/portfolio/static/media/redhat.0b4a016d4183dbe3358c.jpg",
-    "static/media/huawei.jpg": "/portfolio/static/media/huawei.35e5043a076d10781ea1.jpg",
-    "static/media/cs50t.jpg": "/portfolio/static/media/cs50t.9b510ff499634fc0ccfb.jpg",
-    "static/media/element_of_ai.png": "/portfolio/static/media/element_of_ai.5f3b22b7bab5af6a3e29.png",
-    "static/media/pgproj.jpg": "/portfolio/static/media/pgproj.bd80256e25b6bee5f776.jpg",
-    "static/media/pgdata.jpg": "/portfolio/static/media/pgdata.0f211ded672837cfd6e4.jpg",
-    "static/media/pginnovation.jpg": "/portfolio/static/media/pginnovation.8430bfa184d4ca68cba3.jpg",
-    "static/media/pgleader.jpg": "/portfolio/static/media/pgleader.9c391a157a3929b940b4.jpg",
-    "static/media/bgimg.png": "/portfolio/static/media/bgimg.82452a6b614379b57271.png",
-    "static/media/helvetica-neu.ttf": "/portfolio/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
-    "static/media/logo.png": "/portfolio/static/media/logo.419ca4ae143b02baa9f0.png",
-    "static/media/LaBelleAurore.woff2": "/portfolio/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
-    "static/media/CoolveticaRg-Regular.woff2": "/portfolio/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
-    "index.html": "/portfolio/index.html",
-    "main.5a6e02c5.css.map": "/portfolio/static/css/main.5a6e02c5.css.map",
-    "main.93ff36d6.js.map": "/portfolio/static/js/main.93ff36d6.js.map",
-    "787.1ed0c42c.chunk.js.map": "/portfolio/static/js/787.1ed0c42c.chunk.js.map"
+    "main.css": "/djordje34/static/css/main.519b02a3.css",
+    "main.js": "/djordje34/static/js/main.39de0c71.js",
+    "static/js/787.1ed0c42c.chunk.js": "/djordje34/static/js/787.1ed0c42c.chunk.js",
+    "static/media/unix_workbench.jpg": "/djordje34/static/media/unix_workbench.36e4c043419218c45c53.jpg",
+    "static/media/redhat.jpg": "/djordje34/static/media/redhat.0b4a016d4183dbe3358c.jpg",
+    "static/media/huawei.jpg": "/djordje34/static/media/huawei.35e5043a076d10781ea1.jpg",
+    "static/media/cs50t.jpg": "/djordje34/static/media/cs50t.9b510ff499634fc0ccfb.jpg",
+    "static/media/element_of_ai.png": "/djordje34/static/media/element_of_ai.5f3b22b7bab5af6a3e29.png",
+    "static/media/pgproj.jpg": "/djordje34/static/media/pgproj.bd80256e25b6bee5f776.jpg",
+    "static/media/pgdata.jpg": "/djordje34/static/media/pgdata.0f211ded672837cfd6e4.jpg",
+    "static/media/pginnovation.jpg": "/djordje34/static/media/pginnovation.8430bfa184d4ca68cba3.jpg",
+    "static/media/pgleader.jpg": "/djordje34/static/media/pgleader.9c391a157a3929b940b4.jpg",
+    "static/media/bgimg.png": "/djordje34/static/media/bgimg.82452a6b614379b57271.png",
+    "static/media/helvetica-neu.ttf": "/djordje34/static/media/helvetica-neu.8a19678078a6b21c8057.ttf",
+    "static/media/logo.png": "/djordje34/static/media/logo.419ca4ae143b02baa9f0.png",
+    "static/media/LaBelleAurore.woff2": "/djordje34/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
+    "static/media/CoolveticaRg-Regular.woff2": "/djordje34/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
+    "index.html": "/djordje34/index.html",
+    "main.519b02a3.css.map": "/djordje34/static/css/main.519b02a3.css.map",
+    "main.39de0c71.js.map": "/djordje34/static/js/main.39de0c71.js.map",
+    "787.1ed0c42c.chunk.js.map": "/djordje34/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.5a6e02c5.css",
-    "static/js/main.93ff36d6.js"
+    "static/css/main.519b02a3.css",
+    "static/js/main.39de0c71.js"
   ]
 }
