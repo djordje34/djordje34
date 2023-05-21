@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/djordje34/static/css/main.cd86a3a5.css",
-    "main.js": "/djordje34/static/js/main.40a46452.js",
+    "main.js": "/djordje34/static/js/main.70d06b57.js",
     "static/js/787.1ed0c42c.chunk.js": "/djordje34/static/js/787.1ed0c42c.chunk.js",
     "static/media/unix_workbench.jpg": "/djordje34/static/media/unix_workbench.36e4c043419218c45c53.jpg",
     "static/media/redhat.jpg": "/djordje34/static/media/redhat.0b4a016d4183dbe3358c.jpg",
@@ -19,11 +19,11 @@
     "static/media/CoolveticaRg-Regular.woff2": "/djordje34/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/djordje34/index.html",
     "main.cd86a3a5.css.map": "/djordje34/static/css/main.cd86a3a5.css.map",
-    "main.40a46452.js.map": "/djordje34/static/js/main.40a46452.js.map",
+    "main.70d06b57.js.map": "/djordje34/static/js/main.70d06b57.js.map",
     "787.1ed0c42c.chunk.js.map": "/djordje34/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.cd86a3a5.css",
-    "static/js/main.40a46452.js"
+    "static/js/main.70d06b57.js"
   ]
 }
