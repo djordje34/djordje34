@@ -1,6 +1,6 @@
 {
   "files": {
-    "main.css": "/djordje34/static/css/main.a12e6c2b.css",
+    "main.css": "/djordje34/static/css/main.99832a1a.css",
     "main.js": "/djordje34/static/js/main.d9043d41.js",
     "static/js/787.1ed0c42c.chunk.js": "/djordje34/static/js/787.1ed0c42c.chunk.js",
     "static/media/unix_workbench.jpg": "/djordje34/static/media/unix_workbench.36e4c043419218c45c53.jpg",
@@ -18,12 +18,12 @@
     "static/media/LaBelleAurore.woff2": "/djordje34/static/media/LaBelleAurore.a83c1c58fd7e43972e4a.woff2",
     "static/media/CoolveticaRg-Regular.woff2": "/djordje34/static/media/CoolveticaRg-Regular.7d1f3b1dd46ad6557a17.woff2",
     "index.html": "/djordje34/index.html",
-    "main.a12e6c2b.css.map": "/djordje34/static/css/main.a12e6c2b.css.map",
+    "main.99832a1a.css.map": "/djordje34/static/css/main.99832a1a.css.map",
     "main.d9043d41.js.map": "/djordje34/static/js/main.d9043d41.js.map",
     "787.1ed0c42c.chunk.js.map": "/djordje34/static/js/787.1ed0c42c.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.a12e6c2b.css",
+    "static/css/main.99832a1a.css",
     "static/js/main.d9043d41.js"
   ]
 }
