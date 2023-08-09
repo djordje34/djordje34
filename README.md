@@ -19,6 +19,14 @@ Here are some ideas to get you started:
  
 ![](https://github.com/djordje34/djordje34/blob/main/banner.png)   
 
+ ## 📫 Connect with me
+ 
+<p align="left">
+<a href="https://linkedin.com/in/djordjekarisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="djordjekarisic" height="30" width="40" /></a>
+<a href="https://kaggle.com/djordjekarisic" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/kaggle.svg" alt="djordjekarisic" height="30" width="40" /></a>
+<a href="https://www.leetcode.com/djordje34" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/leet-code.svg" alt="djordje34" height="30" width="40" /></a>
+</p>
+
  ## 💼 Technical Skills
 
 
@@ -29,7 +37,7 @@ Here are some ideas to get you started:
   ![pandas](https://img.shields.io/static/v1?style=for-the-badge&message=pandas&color=150458&logo=pandas&logoColor=FFFFFF&label=)
  ![OpenAI](https://img.shields.io/static/v1?style=for-the-badge&message=OpenAI&color=412991&logo=OpenAI&logoColor=FFFFFF&label=)
   ![scikit-learn](https://img.shields.io/static/v1?style=for-the-badge&message=scikit-learn&color=222222&logo=scikit-learn&logoColor=FF9900&label=)
- 
+   
  ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
  ![PHP](https://img.shields.io/static/v1?style=for-the-badge&message=PHP&color=777BB4&logo=PHP&logoColor=FFFFFF&label=)
 ![phpMyAdmin](https://img.shields.io/static/v1?style=for-the-badge&message=phpMyAdmin&color=6C78AF&logo=phpMyAdmin&logoColor=FFFFFF&label=)
@@ -60,4 +68,8 @@ Here are some ideas to get you started:
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
- 
+
+## Support
+
+<p><a href="https://www.buymeacoffee.com/djordje34"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="djordje34" /></a></p><br><br>
+</div>
