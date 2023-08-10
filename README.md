@@ -60,7 +60,7 @@ Here are some ideas to get you started:
  
 ## 📈 GitHub Stats 
  
-
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=djordje34&label=Profile%20views&color=ffc312&style=flat" alt="djordje34" /> </p>
  
  [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=djordje34&langs_count=6&show_icons=true&layout=compact&theme=radical&count_private=true&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
  
@@ -68,8 +68,6 @@ Here are some ideas to get you started:
   
 [![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
-
-![Visitor Count](https://profile-counter.glitch.me/djordje34/count.svg)
 
 ## Support
 
