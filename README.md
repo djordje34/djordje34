@@ -69,6 +69,8 @@ Here are some ideas to get you started:
 [![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
+![Visitor Count](https://profile-counter.glitch.me/djordje34/count.svg)
+
 ## Support
 
 <p><a href="https://www.buymeacoffee.com/djordje34"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="djordje34" /></a></p><br><br>
