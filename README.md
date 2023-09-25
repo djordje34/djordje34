@@ -66,7 +66,6 @@ Here are some ideas to get you started:
  
  ![Djordje's GitHub stats](https://readmestats.999857.xyz/api?username=djordje34&show_icons=true&theme=vision-friendly-dark)
   
-[![trophy](https://github-profile-trophy.vercel.app/?username=djordje34&theme=radical&row=1&column=4)](https://github.com/ryo-ma/github-profile-trophy)
 </div>
 
 ## Support
