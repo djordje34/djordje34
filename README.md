@@ -19,6 +19,9 @@ Here are some ideas to get you started:
  
 ![](https://github.com/djordje34/djordje34/blob/main/banner.png)   
 
+🎓 Master's Computer Science Student @ Faculty of Engineering, University of Kragujevac.
+
+🤖 AI Enthusiast | Coding for a smarter future. 🚀
  ## 📫 Connect with me
  
 <p align="left">
