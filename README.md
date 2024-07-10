@@ -65,7 +65,7 @@ Here are some ideas to get you started:
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djordje34&label=Profile%20views&color=ffc312&style=flat" alt="djordje34" /> </p>
  
- [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=djordje34&theme=radical&count_private=true&show_icons=true&layout=compact&hide=html,css,jupyter%20notebook&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
+ [![Top Langs](https://readmestats.999857.xyz/api/top-langs/?username=djordje34&theme=radical&count_private=true&show_icons=true&layout=compact&hide=html,css,jupyter%20notebook,cython&langs_count=8)](https://github.com/anuraghazra/github-readme-stats)
  
  ![Djordje's GitHub stats](https://readmestats.999857.xyz/api?username=djordje34&show_icons=true&theme=vision-friendly-dark)
   
