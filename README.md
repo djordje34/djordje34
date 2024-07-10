@@ -62,6 +62,8 @@ Here are some ideas to get you started:
 <div align="center">
  
 ## 📈 GitHub Stats 
+
+![stats](https://github-profile-trophy.vercel.app/?username=djordje34&row=1&column=7&theme=radical)
  
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=djordje34&label=Profile%20views&color=ffc312&style=flat" alt="djordje34" /> </p>
  
